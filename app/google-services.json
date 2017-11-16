@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36640847719",
+    "firebase_url": "https://mynurseapp-98eeb.firebaseio.com",
+    "project_id": "mynurseapp-98eeb",
+    "storage_bucket": "mynurseapp-98eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36640847719:android:eeedbe6e3301664b",
+        "android_client_info": {
+          "package_name": "com.example.helmy.nurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36640847719-7v1861vl54mmp2rhs9756vg941kf2o7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helmy.nurse",
+            "certificate_hash": "f8d56981e8ce32abdcb524c94068639f2ca1e894"
+          }
+        },
+        {
+          "client_id": "36640847719-8u720pphq207q6s1hes1qviu80s740qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQgT56wf7Qemh3xhUrsdt9wli2tezJHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36640847719-8u720pphq207q6s1hes1qviu80s740qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
